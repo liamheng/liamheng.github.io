@@ -22,7 +22,7 @@ Work experience
   
 Publications
 ======
-  {% assign pubs = site.publications | where_exp: "item" "item.year > 2018" | group_by: "year" | reverse %}
+  {% assign pubs = site.publications | where_exp: "item", "item.year > 2018" | group_by: "year" | reverse %}
 {% for pub in pubs %}
   {% assign posts = pub.items %}
   <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ pub.name }}</h2>
