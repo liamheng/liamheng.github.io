@@ -20,7 +20,7 @@ Work experience
   * Duties included: Assitant with the teching and study
   * Supervisor: Professor Jiang Liu
   
-publications in recent three years
+Publications(recent three years)
 ======
   {% assign pubs = site.publications | where_exp: "item", "item.year > 2020" | group_by: "year" | reverse %}
 {% for pub in pubs %}
