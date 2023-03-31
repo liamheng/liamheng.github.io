@@ -1,7 +1,7 @@
 ---
 title: "FGAM: A pluggable light-weight attention module for medical image segmentation"
 collection: publications
-year:2022
+year: 2022
 permalink: /publication/2022-01-01-FGAM-A-pluggable-light-weight-attention-module-for-medical-image-segmentation
 date: 2022-01-01
 venue: 'Computers in Biology and Medicine'

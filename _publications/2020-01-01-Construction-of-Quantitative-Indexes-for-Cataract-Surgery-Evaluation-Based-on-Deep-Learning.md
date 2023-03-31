@@ -1,7 +1,7 @@
 ---
 title: "Construction of Quantitative Indexes for Cataract Surgery Evaluation Based on Deep Learning"
 collection: publications
-year:2020
+year: 2020
 permalink: /publication/2020-01-01-Construction-of-Quantitative-Indexes-for-Cataract-Surgery-Evaluation-Based-on-Deep-Learning
 date: 2020-01-01
 venue: 'In the proceedings of Ophthalmic Medical Image Analysis: 7th International Workshop, OMIA 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 8, 2020, Proceedings 7'

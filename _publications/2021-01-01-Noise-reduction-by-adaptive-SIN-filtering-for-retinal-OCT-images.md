@@ -1,7 +1,7 @@
 ---
 title: "Noise reduction by adaptive-SIN filtering for retinal OCT images"
 collection: publications
-year:2021
+year: 2021
 permalink: /publication/2021-01-01-Noise-reduction-by-adaptive-SIN-filtering-for-retinal-OCT-images
 date: 2021-01-01
 venue: 'Scientific Reports'

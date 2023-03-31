@@ -1,7 +1,7 @@
 ---
 title: "Supervessel: Segmenting high-resolution vessel from low-resolution retinal image"
 collection: publications
-year:2022
+year: 2022
 permalink: /publication/2022-01-01-Supervessel-Segmenting-high-resolution-vessel-from-low-resolution-retinal-image
 date: 2022-01-01
 venue: 'In the proceedings of Pattern Recognition and Computer Vision: 5th Chinese Conference, PRCV 2022, Shenzhen, China, November 4--7, 2022, Proceedings, Part II'

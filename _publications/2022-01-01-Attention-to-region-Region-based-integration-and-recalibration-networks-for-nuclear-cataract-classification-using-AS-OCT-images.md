@@ -1,7 +1,7 @@
 ---
 title: "Attention to region: Region-based integration-and-recalibration networks for nuclear cataract classification using AS-OCT images"
 collection: publications
-year:2022
+year: 2022
 permalink: /publication/2022-01-01-Attention-to-region-Region-based-integration-and-recalibration-networks-for-nuclear-cataract-classification-using-AS-OCT-images
 date: 2022-01-01
 venue: 'Medical Image Analysis'

@@ -1,7 +1,7 @@
 ---
 title: "A novel deep learning method for nuclear cataract classification based on anterior segment optical coherence tomography images"
 collection: publications
-year:2020
+year: 2020
 permalink: /publication/2020-01-01-A-novel-deep-learning-method-for-nuclear-cataract-classification-based-on-anterior-segment-optical-coherence-tomography-images
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE international conference on systems, man, and cybernetics (SMC)'

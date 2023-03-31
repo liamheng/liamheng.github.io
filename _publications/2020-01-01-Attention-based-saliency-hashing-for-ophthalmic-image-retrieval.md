@@ -1,7 +1,7 @@
 ---
 title: "Attention-based saliency hashing for ophthalmic image retrieval"
 collection: publications
-year:2020
+year: 2020
 permalink: /publication/2020-01-01-Attention-based-saliency-hashing-for-ophthalmic-image-retrieval
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'

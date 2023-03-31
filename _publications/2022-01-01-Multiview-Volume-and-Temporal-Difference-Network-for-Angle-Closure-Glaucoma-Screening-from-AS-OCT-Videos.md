@@ -1,7 +1,7 @@
 ---
 title: "Multiview Volume and Temporal Difference Network for Angle-Closure Glaucoma Screening from AS-OCT Videos"
 collection: publications
-year:2022
+year: 2022
 permalink: /publication/2022-01-01-Multiview-Volume-and-Temporal-Difference-Network-for-Angle-Closure-Glaucoma-Screening-from-AS-OCT-Videos
 date: 2022-01-01
 venue: 'Journal of Healthcare Engineering'

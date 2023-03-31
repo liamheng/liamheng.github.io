@@ -1,7 +1,7 @@
 ---
 title: "Adaptive feature squeeze network for nuclear cataract classification in AS-OCT image"
 collection: publications
-year:2022
+year: 2022
 permalink: /publication/2022-01-01-Adaptive-feature-squeeze-network-for-nuclear-cataract-classification-in-AS-OCT-image
 date: 2022-01-01
 venue: 'Journal of Biomedical Informatics'

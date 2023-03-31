@@ -1,7 +1,7 @@
 ---
 title: "Domain Adaptive Retinal Vessel Segmentation Guided by High-frequency Component"
 collection: publications
-year:2022
+year: 2022
 permalink: /publication/2022-01-01-Domain-Adaptive-Retinal-Vessel-Segmentation-Guided-by-High-frequency-Component
 date: 2022-01-01
 venue: 'In the proceedings of Ophthalmic Medical Image Analysis: 9th International Workshop, OMIA 2022, Held in Conjunction with MICCAI 2022, Singapore, Singapore, September 22, 2022, Proceedings'

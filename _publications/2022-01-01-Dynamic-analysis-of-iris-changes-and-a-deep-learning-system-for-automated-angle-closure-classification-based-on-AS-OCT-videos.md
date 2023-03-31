@@ -1,7 +1,7 @@
 ---
 title: "Dynamic analysis of iris changes and a deep learning system for automated angle-closure classification based on AS-OCT videos"
 collection: publications
-year:2022
+year: 2022
 permalink: /publication/2022-01-01-Dynamic-analysis-of-iris-changes-and-a-deep-learning-system-for-automated-angle-closure-classification-based-on-AS-OCT-videos
 date: 2022-01-01
 venue: 'Eye and Vision'

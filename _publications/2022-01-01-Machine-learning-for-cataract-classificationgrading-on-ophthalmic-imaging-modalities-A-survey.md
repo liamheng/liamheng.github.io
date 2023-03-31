@@ -1,7 +1,7 @@
 ---
 title: "Machine learning for cataract classification/grading on ophthalmic imaging modalities: A survey"
 collection: publications
-year:2022
+year: 2022
 permalink: /publication/2022-01-01-Machine-learning-for-cataract-classificationgrading-on-ophthalmic-imaging-modalities-A-survey
 date: 2022-01-01
 venue: 'Machine Intelligence Research'

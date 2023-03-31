@@ -1,7 +1,7 @@
 ---
 title: "Flexible laser endoscope for minimally invasive photodynamic diagnosis (PDD) and therapy (PDT) toward efficient tumor removal"
 collection: publications
-year:2017
+year: 2017
 permalink: /publication/2017-01-01-Flexible-laser-endoscope-for-minimally-invasive-photodynamic-diagnosis-PDD-and-therapy-PDT-toward-efficient-tumor-removal
 date: 2017-01-01
 venue: 'Optics Express'
