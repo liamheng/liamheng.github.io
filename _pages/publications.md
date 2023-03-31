@@ -16,13 +16,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Projects
+<!-- Projects
 ======
-{% include projects.html %}
+{% include projects.html %} -->
 
-Publications
-======
-
+<!-- Publications
+====== -->
 {% assign pubs = site.publications | group_by: "year" | reverse %}
 {% for pub in pubs %}
   {% assign posts = pub.items %}

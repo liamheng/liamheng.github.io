@@ -27,7 +27,7 @@ Work experience
   * Duties included: Trustworthy intelligent healthcare
   * Supervisor: Professor Jiang Liu
   
-Publications(recent three years)
+<!-- Publications(recent three years)
 ======
   {% assign pubs = site.publications | where_exp: "item", "item.year > 2020" | group_by: "year" | reverse %}
 {% for pub in pubs %}
@@ -42,7 +42,7 @@ Publications(recent three years)
   
 Projects
 ======
-{% include projects.html %}
+{% include projects.html %} -->
 
 Academic Services
 ======
