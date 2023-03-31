@@ -10,7 +10,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Internet of Things, University of South China, 2016-2020
+* PhD  in , The University of Tokyo, 2013/04-2016.03
+* M.S. in Department of Computer, Northeast Normal University, 2008/09-2011/07
+* B.S. in Department of Computer, Northeast Normal University, 2004/09-2008/07
 
 
 Work experience
