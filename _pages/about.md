@@ -22,10 +22,16 @@ Work experience
   
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+  {% assign pubs = site.publications | group_by: "year" | reverse %}
+{% for pub in pubs %}
+  {% assign posts = pub.items %}
+  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ pub.name }}</h2>
+  <ul>
+  {% for post in posts %}
+    <li>{{ post.citation }}</li>
   {% endfor %}
   </ul>
+{% endfor %}
   
 Projects
 ======
