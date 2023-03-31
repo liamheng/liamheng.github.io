@@ -10,16 +10,21 @@ redirect_from:
 
 Education
 ======
-* PhD  in , The University of Tokyo, 2013/04-2016.03
-* M.S. in Department of Computer, Northeast Normal University, 2008/09-2011/07
-* B.S. in Department of Computer, Northeast Normal University, 2004/09-2008/07
+* PhD  in Beijing Institute of Technology, 2012/09-2018/07
+* Visiting PhD. in MD Anderson Cancer Center, 2016/10-2017/09
+* B.S. in Zhengzhou University, 2008/09-2012/07
 
 
 Work experience
 ======
-* Jun. 2020 -: Research Assistant
+* 2018/07-2020/06: Postdoctoral Fellow
+  * Beijing Institute of Technology
+  * Duties included: Intelligent diagnosis and treatment algorithm and Surgical robot development
+  * Supervisor: Professor Yongtian Wang
+
+* 2020/07-: Associate Researcher
   * Southern University of Science and Technology
-  * Duties included: Assitant with the teching and study
+  * Duties included: Trustworthy intelligent healthcare
   * Supervisor: Professor Jiang Liu
   
 Publications(recent three years)
@@ -41,7 +46,8 @@ Projects
 
 Academic Services
 ======
-* Reviewer of CVPR 2023
-* Reviewer of ECCV 2022
-* Contributer of [MegCC](https://github.com/MegEngine/MegCC)
-* Contributer of [MegEngine](https://github.com/MegEngine/MegEngine)
+* Reviewer of TMI, CMPB, PMB, SREP
+* Reviewer of MICCAI 2023
+* Reviewer of OMIA 2022
+* Reviewer of BMVC 2021
+
