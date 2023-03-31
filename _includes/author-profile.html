@@ -118,6 +118,12 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      {% if author.contact %}
+      <div class="author__content">
+        <h3 class="author__name">Contact</h3>
+        {% if author.bio %}<p class="author__bio">{{ author.contact }}</p>{% endif %}
+      </div>
+      {% endif %}
     </ul>
   </div>
 </div>
