@@ -15,9 +15,13 @@ author_profile: true
   {% assign year=}
   {% include archive-single.html %}
 {% endfor %} -->
+
 Projects
 ======
 {% include projects.html %}
+
+Publications
+======
 
 {% assign pubs = site.publications | group_by: "year" | reverse %}
 {% for pub in pubs %}
