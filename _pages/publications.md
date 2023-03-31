@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %} -->
 
 
-{{ assign pubs = site.publications | group_by:"year" | reverse }}
+{% assign pubs = site.publications | group_by: "year" | reverse %}
 {% for pub in pubs %}
   {% assign posts = pub.items %}
   <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ pub.name }}</h2>
