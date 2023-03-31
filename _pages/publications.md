@@ -21,7 +21,9 @@ author_profile: true
 {% for pub in pubs %}
   {% assign posts = pub.items %}
   <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ pub.name }}</h2>
+  <ul>
   {% for post in posts %}
-    {% include archive-single.html %}
+    <li>{{ post.citition }}</li>
   {% endfor %}
+  </ul>
 {% endfor %}
