@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* PhD  in Beijing Institute of Technology, 2012/09-2018/07
+* PhD. in Beijing Institute of Technology, 2012/09-2018/07
 * Visiting PhD. in MD Anderson Cancer Center, 2016/10-2017/09
 * B.S. in Zhengzhou University, 2008/09-2012/07
 
