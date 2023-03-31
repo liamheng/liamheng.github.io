@@ -34,7 +34,7 @@ for row, item in patents.iterrows():
         author_string += author
     author_string += "。"
     print(item["name"])
-    html+='<p class="archive__item-excerpt" itemprop="description">{}. {}"{}", {}, {}, {}</p>\n'.format(row+1, 
+    html+='<p class="archive__item-excerpt" itemprop="description">{}"{}", {}, {}, {}</p>\n'.format( 
                                                                 html_escape(author_string), html_escape(str(item["name"])), 
                                                                 html_escape(item.type), html_escape(str(item.status)), 
                                                                 html_escape(str(item.id)))
