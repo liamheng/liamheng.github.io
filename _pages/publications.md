@@ -16,11 +16,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-{% include group-by-array collection=site.publications field="year" %}
 
-{% for year in group_names %}
-  {% assign posts = group_items %}
-  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{{ assign pubs = site.publications | group_by:"year" | reverse }}
+{% for pub in pubs %}
+  {% assign posts = pub.items %}
+  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ pub.name }}</h2>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
