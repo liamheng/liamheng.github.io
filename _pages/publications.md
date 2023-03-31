@@ -16,7 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-{% include group-by-array collection=site.posts field="year" %}
+{% include group-by-array collection=site.publications field="year" %}
 
 {% for year in group_names %}
   {% assign posts = group_items[forloop.index0] %}
