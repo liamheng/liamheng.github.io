@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yan Hu"
-description              : &description "personal description"
+description              : &description "Computer-aided Surgery, Medical image processing, Surgery video processing"
 url                      : https://gaiakoen.github.io/yanhu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gaiakoen/yanhu"
@@ -86,7 +86,7 @@ author:
   location         : "Shenzhen, China"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=ja&user=rYLooucAAAAJ"
   email            : huy3@sustech.edu.cn
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
