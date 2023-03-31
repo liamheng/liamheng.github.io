@@ -80,8 +80,9 @@ for pubsource in publist:
 
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
             url_slug = url_slug.replace("--","-")
-
             md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--","-")
+            if url_slug == "":
+                md_filename = (str(pub_date) + "-" + b["title"] + ".md").replace("--","-")
             html_filename = (str(pub_date) + "-" + url_slug).replace("--","-")
 
             #Build Citation from text
@@ -149,7 +150,7 @@ for pubsource in publist:
 
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, 'w') as f:
+            with open("../_publications/" + md_filename, 'w', encoding="utf-8") as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference
