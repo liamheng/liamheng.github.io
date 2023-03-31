@@ -1,6 +1,7 @@
 ---
 title: "Hard Exudate Segmentation Supplemented by Super-Resolution with Multi-scale Attention Fusion Module"
 collection: publications
+year:2022
 permalink: /publication/2022-01-01-Hard-Exudate-Segmentation-Supplemented-by-Super-Resolution-with-Multi-scale-Attention-Fusion-Module
 date: 2022-01-01
 venue: 'In the proceedings of 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'

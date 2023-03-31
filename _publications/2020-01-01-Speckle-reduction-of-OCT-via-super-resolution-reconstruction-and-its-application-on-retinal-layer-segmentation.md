@@ -1,6 +1,7 @@
 ---
 title: "Speckle reduction of OCT via super resolution reconstruction and its application on retinal layer segmentation"
 collection: publications
+year:2020
 permalink: /publication/2020-01-01-Speckle-reduction-of-OCT-via-super-resolution-reconstruction-and-its-application-on-retinal-layer-segmentation
 date: 2020-01-01
 venue: 'Artificial intelligence in medicine'

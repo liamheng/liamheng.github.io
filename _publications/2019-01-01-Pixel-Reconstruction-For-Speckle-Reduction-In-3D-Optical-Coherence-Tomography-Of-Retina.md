@@ -1,6 +1,7 @@
 ---
 title: "Pixel Reconstruction For Speckle Reduction In 3D Optical Coherence Tomography Of Retina"
 collection: publications
+year:2019
 permalink: /publication/2019-01-01-Pixel-Reconstruction-For-Speckle-Reduction-In-3D-Optical-Coherence-Tomography-Of-Retina
 date: 2019-01-01
 venue: 'In the proceedings of 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)'

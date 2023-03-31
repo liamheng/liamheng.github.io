@@ -1,6 +1,7 @@
 ---
 title: "Universal digital filtering for denoising volumetric retinal OCT and OCT angiography in 3D shearlet domain"
 collection: publications
+year:2020
 permalink: /publication/2020-01-01-Universal-digital-filtering-for-denoising-volumetric-retinal-OCT-and-OCT-angiography-in-3D-shearlet-domain
 date: 2020-01-01
 venue: 'Optics Letters'

@@ -1,6 +1,7 @@
 ---
 title: "Speckle reduction in optical coherence tomography via super-resolution reconstruction"
 collection: publications
+year:2019
 permalink: /publication/2019-01-01-Speckle-reduction-in-optical-coherence-tomography-via-super-resolution-reconstruction
 date: 2019-01-01
 venue: 'In the proceedings of 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'

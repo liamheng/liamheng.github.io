@@ -1,6 +1,7 @@
 ---
 title: "Automatic segmentation and visualization of choroid in OCT with knowledge infused deep learning"
 collection: publications
+year:2020
 permalink: /publication/2020-01-01-Automatic-segmentation-and-visualization-of-choroid-in-OCT-with-knowledge-infused-deep-learning
 date: 2020-01-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'

@@ -1,6 +1,7 @@
 ---
 title: "Classification of retinal vessels into artery-vein in oct angiography guided by fundus images"
 collection: publications
+year:2020
 permalink: /publication/2020-01-01-Classification-of-retinal-vessels-into-artery-vein-in-oct-angiography-guided-by-fundus-images
 date: 2020-01-01
 venue: 'In the proceedings of Medical Image Computing and Computer Assisted Intervention--MICCAI 2020: 23rd International Conference, Lima, Peru, October 4--8, 2020, Proceedings, Part VI 23'

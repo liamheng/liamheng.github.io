@@ -1,6 +1,7 @@
 ---
 title: "Interaction-Oriented Feature Decomposition for Medical Image Lesion Detection"
 collection: publications
+year:2022
 permalink: /publication/2022-01-01-Interaction-Oriented-Feature-Decomposition-for-Medical-Image-Lesion-Detection
 date: 2022-01-01
 venue: 'In the proceedings of Medical Image Computing and Computer Assisted Intervention--MICCAI 2022: 25th International Conference, Singapore, September 18--22, 2022, Proceedings, Part III'

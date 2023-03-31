@@ -1,6 +1,7 @@
 ---
 title: "Eliminating Shadow Artifacts via Generative Inpainting Networks to Quantify Vascular Changes of the Choroid"
 collection: publications
+year:2019
 permalink: /publication/2019-01-01-Eliminating-Shadow-Artifacts-via-Generative-Inpainting-Networks-to-Quantify-Vascular-Changes-of-the-Choroid
 date: 2019-01-01
 venue: 'arXiv preprint arXiv:1907.01271'

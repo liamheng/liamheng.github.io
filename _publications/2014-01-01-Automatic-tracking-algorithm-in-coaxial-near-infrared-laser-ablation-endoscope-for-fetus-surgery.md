@@ -1,6 +1,7 @@
 ---
 title: "Automatic tracking algorithm in coaxial near-infrared laser ablation endoscope for fetus surgery"
 collection: publications
+year:2014
 permalink: /publication/2014-01-01-Automatic-tracking-algorithm-in-coaxial-near-infrared-laser-ablation-endoscope-for-fetus-surgery
 date: 2014-01-01
 venue: 'International Journal of Optomechatronics'

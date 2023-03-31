@@ -1,6 +1,7 @@
 ---
 title: "Deep metric learning with mirror attention and fine triplet loss for fundus image retrieval in ophthalmology"
 collection: publications
+year:2023
 permalink: /publication/2023-01-01-Deep-metric-learning-with-mirror-attention-and-fine-triplet-loss-for-fundus-image-retrieval-in-ophthalmology
 date: 2023-01-01
 venue: 'Biomedical Signal Processing and Control'

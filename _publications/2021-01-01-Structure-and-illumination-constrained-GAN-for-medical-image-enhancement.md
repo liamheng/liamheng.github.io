@@ -1,6 +1,7 @@
 ---
 title: "Structure and illumination constrained GAN for medical image enhancement"
 collection: publications
+year:2021
 permalink: /publication/2021-01-01-Structure-and-illumination-constrained-GAN-for-medical-image-enhancement
 date: 2021-01-01
 venue: 'IEEE Transactions on Medical Imaging'

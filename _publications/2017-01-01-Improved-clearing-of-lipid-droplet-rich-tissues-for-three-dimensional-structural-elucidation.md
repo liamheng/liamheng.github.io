@@ -1,6 +1,7 @@
 ---
 title: "Improved clearing of lipid droplet-rich tissues for three-dimensional structural elucidation"
 collection: publications
+year:2017
 permalink: /publication/2017-01-01-Improved-clearing-of-lipid-droplet-rich-tissues-for-three-dimensional-structural-elucidation
 date: 2017-01-01
 venue: 'Acta Biochimica et Biophysica Sinica'

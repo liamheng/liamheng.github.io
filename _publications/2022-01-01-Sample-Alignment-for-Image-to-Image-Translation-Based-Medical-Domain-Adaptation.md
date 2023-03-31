@@ -1,6 +1,7 @@
 ---
 title: "Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation"
 collection: publications
+year:2022
 permalink: /publication/2022-01-01-Sample-Alignment-for-Image-to-Image-Translation-Based-Medical-Domain-Adaptation
 date: 2022-01-01
 venue: 'In the proceedings of 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)'

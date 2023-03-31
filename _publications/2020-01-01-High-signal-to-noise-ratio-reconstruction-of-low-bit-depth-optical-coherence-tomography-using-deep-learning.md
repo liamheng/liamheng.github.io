@@ -1,6 +1,7 @@
 ---
 title: "High signal-to-noise ratio reconstruction of low bit-depth optical coherence tomography using deep learning"
 collection: publications
+year:2020
 permalink: /publication/2020-01-01-High-signal-to-noise-ratio-reconstruction-of-low-bit-depth-optical-coherence-tomography-using-deep-learning
 date: 2020-01-01
 venue: 'Journal of biomedical optics'

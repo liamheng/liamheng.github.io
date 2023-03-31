@@ -1,6 +1,7 @@
 ---
 title: "Flexible coaxial laser endoscope with arbitrarily selected spots in endoscopic view for photodynamic tumor therapy"
 collection: publications
+year:2016
 permalink: /publication/2016-01-01-Flexible-coaxial-laser-endoscope-with-arbitrarily-selected-spots-in-endoscopic-view-for-photodynamic-tumor-therapy
 date: 2016-01-01
 venue: 'Applied Optics'

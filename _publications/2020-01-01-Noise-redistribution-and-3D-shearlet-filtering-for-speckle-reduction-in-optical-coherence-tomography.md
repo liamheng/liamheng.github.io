@@ -1,6 +1,7 @@
 ---
 title: "Noise redistribution and 3D shearlet filtering for speckle reduction in optical coherence tomography"
 collection: publications
+year:2020
 permalink: /publication/2020-01-01-Noise-redistribution-and-3D-shearlet-filtering-for-speckle-reduction-in-optical-coherence-tomography
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)'

@@ -1,6 +1,7 @@
 ---
 title: "Structure-Oriented Transformer for retinal diseases grading from OCT images"
 collection: publications
+year:2023
 permalink: /publication/2023-01-01-Structure-Oriented-Transformer-for-retinal-diseases-grading-from-OCT-images
 date: 2023-01-01
 venue: 'Computers in Biology and Medicine'

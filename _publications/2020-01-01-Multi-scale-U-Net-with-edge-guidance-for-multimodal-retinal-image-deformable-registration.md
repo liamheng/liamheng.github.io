@@ -1,6 +1,7 @@
 ---
 title: "Multi-scale U-Net with edge guidance for multimodal retinal image deformable registration"
 collection: publications
+year:2020
 permalink: /publication/2020-01-01-Multi-scale-U-Net-with-edge-guidance-for-multimodal-retinal-image-deformable-registration
 date: 2020-01-01
 venue: 'In the proceedings of 2020 42nd Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)'

@@ -1,6 +1,7 @@
 ---
 title: "Gated channel attention network for cataract classification on AS-OCT image"
 collection: publications
+year:2021
 permalink: /publication/2021-01-01-Gated-channel-attention-network-for-cataract-classification-on-AS-OCT-image
 date: 2021-01-01
 venue: 'In the proceedings of Neural Information Processing: 28th International Conference, ICONIP 2021, Sanur, Bali, Indonesia, December 8--12, 2021, Proceedings, Part III 28'
