@@ -96,7 +96,7 @@ for pubsource in publist:
                     authorname = author.last_names[0]
                 if authorname == author_h:
                     authorname = "<b>" + authorname + "</b>"
-                if authorname == "胡衍":
+                if authorname == "李衡":
                     authorname = "<b>" + authorname + "</b>"
                 citation = citation+" "+authorname+", "
 
