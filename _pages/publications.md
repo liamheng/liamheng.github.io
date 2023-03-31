@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -15,7 +15,9 @@ author_profile: true
   {% assign year=}
   {% include archive-single.html %}
 {% endfor %} -->
-
+Projects
+======
+{% include projects.html %}
 
 {% assign pubs = site.publications | group_by: "year" | reverse %}
 {% for pub in pubs %}
