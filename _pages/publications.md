@@ -10,9 +10,18 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-{% capture year %}'None'{% endcapture %}
-{% for post in site.publications reversed %}
-  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.year }}</h2>
-  {% include archive-single.html %}
-{% endfor %}
 
+<!-- {% for post in site.publications reversed %}
+  {% assign year=}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+{% include group-by-array collection=site.posts field="year" %}
+
+{% for year in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
