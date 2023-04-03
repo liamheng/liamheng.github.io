@@ -22,7 +22,7 @@ Work experience
   * Duties included: Intelligent diagnosis and treatment algorithm and Surgical robot development
   * Supervisor: Professor Yongtian Wang
 
-* 2020/07-: Associate Researcher
+* 2020/07-Now: Associate Researcher
   * Southern University of Science and Technology
   * Duties included: Trustworthy intelligent healthcare
   * Supervisor: Professor Jiang Liu
@@ -51,3 +51,7 @@ Academic Services
 * Reviewer of OMIA 2022
 * Reviewer of BMVC 2021
 
+Honors & Awards
+======
+* Star faculty of iMed Group 2023
+* Shenzhen High-level Talent Award
