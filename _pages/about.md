@@ -59,5 +59,6 @@ Academic Services
 Honors & Awards
 ======
 * Star faculty of iMed Group 2023
+* EMBC 2022 Best Student Paper Award Nomination
 * Shenzhen High-level Talent Award
 * Gold Award in ‘Internet +’ Innovation and Entrepreneurship Competition of China 2019
