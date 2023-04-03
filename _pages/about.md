@@ -9,9 +9,9 @@ redirect_from:
 ---
 Research Interests
 ======
-* Medical image processing, i.e., clinical image enhancement, medical image segmentation, and lesion detection.
-* Trustworthy Intelligent Healthcare, i.e., domain adaptation and generalization in medical imaging, medical privacy preservation.
-* Intelligent Surgery, i.e., surgery planning, surgical navigation.
+* Medical image processing, e.g., clinical image enhancement, medical image segmentation, and lesion detection.
+* Trustworthy Intelligent Healthcare, e.g., domain adaptation and generalization in medical imaging, medical privacy preservation.
+* Intelligent Surgery, e.g., surgery planning, surgical navigation.
 
 Education
 ======
