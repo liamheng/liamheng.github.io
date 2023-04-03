@@ -7,6 +7,11 @@ layout: archive
 redirect_from: 
   - /about
 ---
+Research Interests
+======
+* Medical image processing, i.e., clinical image enhancement, medical image segmentation, and lesion detection.
+* Trustworthy Intelligent Healthcare, i.e., domain adaptation and generalization in medical imaging, medical privacy protection.
+* Intelligent Surgery, i.e., surgery planning, surgical navigation.
 
 Education
 ======
@@ -55,3 +60,4 @@ Honors & Awards
 ======
 * Star faculty of iMed Group 2023
 * Shenzhen High-level Talent Award
+* Gold Award in ‘Internet +’ Innovation and Entrepreneurship Competition of China 2019
